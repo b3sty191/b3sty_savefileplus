@@ -1,7 +1,7 @@
 **Unlock native `SAVE_RESOURCE_FILE` — เขียนไฟล์ใน resource ได้แบบไม่จำกัด**
 ---
 ## 📦 ดาวน์โหลด
-👉 [**คลิกที่นี่เพื่อดาวน์โหลด `scripting-server.dll` (ล่าสุด)**](https://github.com/b3sty191/b3sty_savefileplus/releases/latest/download/scripting-server.dll)
+👉 [**คลิกที่นี่เพื่อดาวน์โหลด**](https://github.com/b3sty191/b3sty_savefileplus/releases)
 
 ## 🔧 วิธีติดตั้ง
 1. ดาวน์โหลดไฟล์ `scripting-server.dll` จากหน้า **Releases** ใน GitHub ของโปรเจกต์นี้  
